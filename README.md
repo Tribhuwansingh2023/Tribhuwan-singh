@@ -70,7 +70,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Tribhuwan-Singh/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Tribhuwan-singh/count.svg?"  />
 </div>
 
 ###
