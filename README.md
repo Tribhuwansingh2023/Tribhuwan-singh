@@ -1,76 +1,111 @@
-# Tribhuwan-singh
+# Hi 👋, I'm Tribhuwan Singh! 🚀
 
-<h2 align="center">Hi 👋 My name is Tribhuwan Singh</h2>
+## 🌟 About Me
+- 💻 I’m passionate about **Artificial Intelligence** and **Machine Learning**.
+- 🌱 I’m currently learning **Full Stack Development**.
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering** (AI & ML specialization).
+- 🌍 I love exploring new places, learning new things, and solving problems.
+- ⚡ Fun fact: I enjoy coding late at night and experimenting with new tech!
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Raj-Chourasia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ayush-Raj-Chourasia&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="151" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush-Raj-Chourasia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Raj-Chourasia&theme=github-dark&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
-</div>
+## 🛠️ My Skills
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Java](https://img.shields.io/badge/Java-Intermediate-green)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
-</div>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tribhuwansingh2023&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tribhuwansingh2023&layout=compact&theme=radical)
 
-###
+---
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/tribhuwan-singh-3283b6280/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/Tribhuwansingh2023/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="webosingh93@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://wa.me/+918707701003" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/hs0762363" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Tribhuwansingh2023&theme=dark&hide_border=false)
 
-###
+---
 
-<br clear="both">
+## 🎯 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tribhuwansingh2023&theme=react-dark&area=true)
 
-<img src="https://raw.githubusercontent.com/Ayush-Raj-Chourasia/Ayush-Raj-Chourasia/output/snake.svg" alt="" />
+---
 
-###
+## 🏆 Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tribhuwansingh2023&theme=gruvbox&row=2&column=4)
 
-<div align="center">
-  <img height="220" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
-</div>
+---
 
-###
+## 🚀 My Projects
+### Featured Projects:
+- 🌟 [AI Personality Prediction System](https://github.com/Tribhuwansingh2023/PersonalityPrediction)
+- 🌟 [Road Lane Detection](https://github.com/Tribhuwansingh2023/RoadLaneDetection)
+- 🌟 [Facial Recognition System](https://github.com/Tribhuwansingh2023/FacialRecognition)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Tribhuwan-singh/count.svg?"  />
-</div>
+---
 
-###
+## 📅 Contribution Calendar
+![Contribution Calendar](https://github.com/Tribhuwansingh2023/github-calendar/blob/master/docs/assets/example.svg)
+
+---
+
+## 📈 WakaTime Coding Stats
+[![WakaTime Stats](https://wakatime.com/badge/user/your_user_id.svg)](https://wakatime.com/@your_user_id)
+
+---
+
+## 🔗 Last 10 Links
+Here are my 10 most recently shared or favorite links:
+1. [Project 1 - OpenCV Image Recognition](https://github.com/Tribhuwansingh2023/OpenCVImageRecognition)
+2. [Project 2 - Java Programming Questions](https://github.com/Tribhuwansingh2023/JavaQuestions)
+3. [Project 3 - Python Advanced Concepts](https://github.com/Tribhuwansingh2023/PythonAdvanced)
+4. [Space Science Overview (ISRO Training)](https://github.com/Tribhuwansingh2023/SpaceScienceOverview)
+5. [Road Lane Detection GitHub](https://github.com/Tribhuwansingh2023/RoadLaneDetection)
+6. [Facial Recognition GitHub](https://github.com/Tribhuwansingh2023/FacialRecognition)
+7. [Google Cloud Learning](https://cloud.google.com/)
+8. [AI Training Repository](https://github.com/Tribhuwansingh2023/AITraining)
+9. [DLD Logic Circuit Designs](https://github.com/Tribhuwansingh2023/DLD-Circuits)
+10. [Space Exploration MOOC (IIRS)](https://github.com/Tribhuwansingh2023/SpaceExploration)
+
+---
+
+## 🔗 Additional 20 Links
+Here’s an extended list of resources, projects, and contributions:
+1. [HTML/CSS Templates](https://github.com/Tribhuwansingh2023/HTML-CSS-Templates)
+2. [Java Backend Projects](https://github.com/Tribhuwansingh2023/JavaBackendProjects)
+3. [SQL Database Queries](https://github.com/Tribhuwansingh2023/SQLQueries)
+4. [Python Fun Projects](https://github.com/Tribhuwansingh2023/PythonFun)
+5. [Artificial Intelligence Basics](https://github.com/Tribhuwansingh2023/AIBasics)
+6. [Python Flask APIs](https://github.com/Tribhuwansingh2023/FlaskAPIProjects)
+7. [Space Tech Repository](https://github.com/Tribhuwansingh2023/SpaceTechRepo)
+8. [GitHub Tips & Tricks](https://github.com/Tribhuwansingh2023/GitHubTips)
+9. [Machine Learning Algorithms](https://github.com/Tribhuwansingh2023/MLAlgorithms)
+10. [AI in Defense Projects](https://github.com/Tribhuwansingh2023/DefenseAI)
+11. [Road Safety System](https://github.com/Tribhuwansingh2023/RoadSafetySystem)
+12. [Video Processing](https://github.com/Tribhuwansingh2023/VideoProcessing)
+13. [Face Detection System](https://github.com/Tribhuwansingh2023/FaceDetection)
+14. [AI Intern Tasks](https://github.com/Tribhuwansingh2023/AIInternTasks)
+15. [CodeClause Internship](https://github.com/Tribhuwansingh2023/CodeClause)
+16. [Frontend Challenges](https://github.com/Tribhuwansingh2023/FrontendChallenges)
+17. [Backend APIs](https://github.com/Tribhuwansingh2023/BackendAPIs)
+18. [Defense Ideathon](https://github.com/Tribhuwansingh2023/DefenseIdeathon)
+19. [Cloud Computing Basics](https://github.com/Tribhuwansingh2023/CloudBasics)
+20. [Hostel Automation System](https://github.com/Tribhuwansingh2023/HostelAutomation)
+
+---
+
+## 🌐 Connect with Me
+- [Portfolio Website](https://yourportfolio.com)  
+- [LinkedIn](https://www.linkedin.com/in/tribhuwan-singh/)  
+- [Twitter](https://twitter.com/yourhandle)  
+- 📧 Email: hs0762363@gmail.com  
+
+---
+
+## 💡 Fun Facts
+- 🧩 I love solving coding challenges and participating in hackathons.
+- 🏃‍♂️ When not coding, you can find me playing sports or exploring new tech trends.
