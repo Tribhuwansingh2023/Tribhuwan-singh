@@ -32,25 +32,25 @@
 ###
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/ayush-raj-chourasia" target="_blank">
+  <a href="https://www.linkedin.com/in/tribhuwan-singh-3283b6280/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/AyushfulThink" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/ayush_raj_chourasia/" target="_blank">
+  <a href="https://www.instagram.com/Tribhuwansingh2023/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <a href="webosingh93@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61552064734693" target="_blank">
+  <a href="https://www.facebook.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
   <a href="https://wa.me/+918707701003" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/iter_student_al1" target="_blank">
+  <a href="https://www.hackerrank.com/profile/hs0762363" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
   </a>
 </div>
